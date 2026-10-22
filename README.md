@@ -8,10 +8,16 @@ Software engineer since 2007, based in Spain. I build business software for regu
 
 #### What I work on
 
-- **AI that touches real data, with guardrails.** MCP servers in every app I ship, natural-language-to-SQL where the model only *writes* SQL (validated with `sqlglot`, run read-only on DuckDB/Parquet), RAG with file-and-page citations measured against question sets, and an AI gateway that defaults to a local model.
+- **AI that touches real data, with guardrails.** MCP servers in every app I ship, natural-language-to-SQL where the model only *writes* SQL (validated with `sqlglot`, run read-only on DuckDB/Parquet), and voice and document agents that can only act through the business rules.
 - **Vehicle inspection (ITV) software.** Station management, online and phone booking (voice agents), licence-plate and document reading (CNN + OCR, multimodal LLMs), rule-based checks of vehicle modification files, integration with brake-test benches, inspection analytics.
 - **Data spaces.** Ocean Protocol nodes and Compute-to-Data algorithms, a marketplace rewritten with DDD, data sharing between inspection stations and in agrifood.
-- **Product templates.** Two in-house app templates (Python and PHP) that ten-odd products start from: multi-tenant PostgreSQL with row-level security, passkeys, MCP, observability and one `make` interface (`up`, `check`, `pr`, `deploy`, `rollback`).
+
+#### Side projects
+
+What I build in my spare time, on the same standards:
+
+- **App templates.** Python and PHP templates with multi-tenant PostgreSQL (row-level security), passkeys, MCP, observability and one `make` interface (`up`, `check`, `pr`, `deploy`, `rollback`).
+- **AI services.** Document RAG with file-and-page citations measured against question sets, and an AI gateway that defaults to a local model.
 - **Running it myself.** A small fleet of VPS with a common provisioning, backup and recovery standard, monitored through Prometheus, Loki and Grafana, and operable by agents over MCP.
 
 #### Research
@@ -40,12 +46,12 @@ Before that: MSc in Human-Computer Interaction (Universitat de Lleida and DERI G
 
 | | |
 |---|---|
-| **2020 → now** | Software engineer at [Ibatec](https://www.ibatec.es): end-to-end products for vehicle-inspection (ITV) stations (quality, training, HR, supplier integrations) and their AI layer. Also run my own small software studio. |
+| **2020 → now** | Software engineer at [Ibatec](https://www.ibatec.es): end-to-end products for vehicle-inspection (ITV) stations (quality, training, HR, supplier integrations) and their AI layer. |
 | **2015 → 2020** | Software engineer at [Optretina](https://www.optretina.com): retinal screening platform reviewing 1,000+ patients a day, connecting them with retina specialists; worked with partners such as Zeiss, Sanitas and Clínica Baviera. |
 | **2014 → 2015** | Freelance full-stack developer: cloud web solutions for small companies. |
 | **2011 → 2014** | Backend developer at Ondango (Berlin): e-commerce on Facebook that grew into a fashion marketplace. |
 | **2007 → 2011** | Web developer at a consultancy: PHP and Java for SMEs. |
 
-📄 Full CV: [English](https://lopezmuzas.github.io/resume/) · [Español](https://lopezmuzas.github.io/resume/index_es.html)
+📄 Full CV: [lopezmuzas.github.io/resume](https://lopezmuzas.github.io/resume/)
 
 <sub>Most of my work lives in private organisation repositories. Happy to talk about it.</sub>
