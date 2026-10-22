@@ -1,6 +1,6 @@
 ### Hi, I'm Antonio López Muzás 👋
 
-Software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, healthcare, agrifood) and, lately, the plumbing that lets AI agents work with that software safely. I'm also doing a PhD on federated learning over data spaces.
+Software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, healthcare, agrifood) and, lately, the plumbing that lets AI agents work with that software safely. I'm also preparing a PhD proposal on federated learning over data spaces.
 
 🇪🇸 *Ingeniero de software. Construyo software de negocio y la infraestructura para que los agentes de IA trabajen con él de forma segura.*
 
@@ -17,13 +17,13 @@ Software engineer since 2007, based in Spain. I build business software for regu
 What I build in my spare time, on the same standards:
 
 - **A house run by one agent.** One agent for the whole home coordinates sub-agents for cooking, energy and cleaning, so each can use what the others know: recipes, hourly electricity prices, smart plugs and the robot vacuum on a 3D floor plan. Devices are read locally over MQTT; the home's knowledge stays in its own database.
-- **A reading app that moves my thesis forward.** Every paper I read has to produce a claim, a gap, an experiment idea or an explicit discard. It works on top of Zotero, has its own phone reader and writes the research log by itself; Claude organises the reading queue over MCP.
+- **A reading app that moves my research forward.** Every paper I read has to produce a claim, a gap, an experiment idea or an explicit discard. It works on top of Zotero, has its own phone reader and writes the research log by itself; Claude organises the reading queue over MCP.
 - **Local-first AI gateway.** A Claude-compatible API that answers with a small local model by default.
 - **Running it myself.** A small fleet of VPS with a common provisioning, backup and recovery standard, monitored through Prometheus, Loki and Grafana, and operable by agents over MCP.
 
 #### Research
 
-PhD candidate working on **federated learning over sovereign data spaces** (Ocean Protocol, Gaia-X/Pontus-X). In Compute-to-Data each step is an isolated, stateless and paid job, which makes multi-round training costly. My work measures that cost and proposes verifiable one-pass model evaluation.
+Preparing a PhD proposal on **federated learning over sovereign data spaces** (Ocean Protocol, Gaia-X/Pontus-X). In Compute-to-Data each step is an isolated, stateless and paid job, which makes multi-round training costly. My work measures that cost and proposes verifiable one-pass model evaluation.
 
 Before that: MSc in Human-Computer Interaction (Universitat de Lleida and DERI Galway), on interacting with the Semantic Web, and a contributor to [Rhizomer](https://github.com/rhizomik/rhizomer).
 - *Interacting with Linked Data through an Automatic Information Architecture*
