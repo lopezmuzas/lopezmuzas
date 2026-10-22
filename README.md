@@ -23,7 +23,7 @@ What I build in my spare time, on the same standards:
 
 #### Research
 
-PhD candidate working on **federated learning over sovereign data spaces** (Ocean Protocol, Gaia-X/Pontus-X, Compute-to-Data): what multi-round training really costs when each step is an isolated, paid job, and verifiable one-pass model evaluation with differential privacy and conformal prediction on European clinical data.
+PhD candidate working on **federated learning over sovereign data spaces** (Ocean Protocol, Gaia-X/Pontus-X). In Compute-to-Data each step is an isolated, stateless and paid job, which makes multi-round training costly. My work measures that cost and proposes verifiable one-pass model evaluation.
 
 Before that: MSc in Human-Computer Interaction (Universitat de Lleida and DERI Galway), on interacting with the Semantic Web, and a contributor to [Rhizomer](https://github.com/rhizomik/rhizomer).
 - *Interacting with Linked Data through an Automatic Information Architecture*
