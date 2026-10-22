@@ -16,8 +16,9 @@ Software engineer since 2007, based in Spain. I build business software for regu
 
 What I build in my spare time, on the same standards:
 
-- **App templates.** Python and PHP templates with multi-tenant PostgreSQL (row-level security), passkeys, MCP, observability and one `make` interface (`up`, `check`, `pr`, `deploy`, `rollback`).
-- **AI services.** Document RAG with file-and-page citations measured against question sets, and an AI gateway that defaults to a local model.
+- **A house run by one agent.** One agent for the whole home coordinates sub-agents for cooking, energy and cleaning, so each can use what the others know: recipes, hourly electricity prices, smart plugs and the robot vacuum on a 3D floor plan. Devices are read locally over MQTT; the home's knowledge stays in its own database.
+- **A reading app that moves my thesis forward.** Every paper I read has to produce a claim, a gap, an experiment idea or an explicit discard. It works on top of Zotero, has its own phone reader and writes the research log by itself; Claude organises the reading queue over MCP.
+- **Local-first AI gateway.** A Claude-compatible API that answers with a small local model by default.
 - **Running it myself.** A small fleet of VPS with a common provisioning, backup and recovery standard, monitored through Prometheus, Loki and Grafana, and operable by agents over MCP.
 
 #### Research
