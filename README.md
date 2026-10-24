@@ -1,6 +1,6 @@
 ### Hi, I'm Antonio López Muzás 👋
 
-Software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, healthcare, agrifood) and, lately, the plumbing that lets AI agents work with that software safely. I'm also preparing a PhD proposal on federated learning over data spaces.
+Software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, energy, healthcare, agrifood) and, lately, the plumbing that lets AI agents work with that software safely. I'm also preparing a PhD proposal on federated learning over data spaces.
 
 🇪🇸 *Ingeniero de software. Construyo software de negocio y la infraestructura para que los agentes de IA trabajen con él de forma segura.*
 
@@ -10,6 +10,7 @@ Software engineer since 2007, based in Spain. I build business software for regu
 
 - **AI that touches real data, with guardrails.** MCP servers in every app I ship, natural-language-to-SQL where the model only *writes* SQL (validated with `sqlglot`, run read-only on DuckDB/Parquet), and voice and document agents that can only act through the business rules.
 - **Vehicle inspection (ITV) software.** Station management, online and phone booking (voice agents), licence-plate and document reading (CNN + OCR, multimodal LLMs), rule-based checks of vehicle modification files, integration with brake-test benches, inspection analytics.
+- **Energy retail.** An electricity and gas sales platform: supply points, rates from several retailers with a best-option comparison, bulk contracts and their processing through each retailer's API, webhooks or file exchange.
 - **Data spaces.** Ocean Protocol nodes and Compute-to-Data algorithms, a marketplace rewritten with DDD, data sharing between inspection stations and in agrifood.
 
 #### Side projects
@@ -47,7 +48,7 @@ Before that: MSc in Human-Computer Interaction (Universitat de Lleida and DERI G
 
 | | |
 |---|---|
-| **2020 → now** | Software engineer at [Ibatec](https://www.ibatec.es): end-to-end products for vehicle-inspection (ITV) stations (quality, training, HR, supplier integrations) and their AI layer. |
+| **2020 → now** | Software engineer at [Ibatec](https://www.ibatec.es): end-to-end products for vehicle-inspection (ITV) stations (quality, training, HR, supplier integrations), an electricity and gas sales platform, and their AI layer. |
 | **2015 → 2020** | Software engineer at [Optretina](https://www.optretina.com): retinal screening platform reviewing 1,000+ patients a day, connecting them with retina specialists; worked with partners such as Zeiss, Sanitas and Clínica Baviera. |
 | **2014 → 2015** | Freelance full-stack developer: cloud web solutions for small companies. |
 | **2011 → 2014** | Backend developer at Ondango (Berlin): e-commerce on Facebook that grew into a fashion marketplace. |
