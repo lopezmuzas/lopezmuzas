@@ -38,7 +38,7 @@ Before that: MSc in Human-Computer Interaction (Universitat de Lleida and DERI G
 
 **Data & ops:** DuckDB · MariaDB · Qdrant · nginx · Prometheus · Loki · OpenTelemetry · restic
 
-**Ways of working:** DDD and hexagonal architecture · ADRs · spec-driven development · Conventional Commits · `make check` green before anything ships
+**Ways of working:** DDD and hexagonal architecture · ADRs · spec-driven development · Conventional Commits · `make check` green before anything ships · every pull request with tests (unit, endpoint, real-database integration), `/code-review` and, when it touches sessions, permissions or keys, `/security-review`
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,ts,react,vite,postgres,docker,githubactions,nginx,pytorch,tensorflow,prometheus,grafana,linux&perline=8" alt="Technologies" />
