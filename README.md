@@ -48,7 +48,7 @@ Before that: MSc in Human-Computer Interaction (Universitat de Lleida and DERI G
 
 | | |
 |---|---|
-| **2020 → now** | Software engineer at [Ibatec](https://www.ibatec.es): end-to-end products for vehicle-inspection (ITV) stations (quality, training, HR, supplier integrations), an electricity and gas sales platform, and their AI layer. |
+| **2020 → now** | Software engineer at [Ibatec](https://www.ibatec.es): end-to-end products for vehicle-inspection (ITV) stations (quality, training, HR, supplier integrations), an electricity and gas sales platform, and their AI layer. On the internal projects I own, I make the technical decisions, coordinate the developers who join them and work directly with clients. |
 | **2015 → 2020** | Software engineer at [Optretina](https://www.optretina.com): retinal screening platform reviewing 1,000+ patients a day, connecting them with retina specialists; worked with partners such as Zeiss, Sanitas and Clínica Baviera. |
 | **2014 → 2015** | Freelance full-stack developer: cloud web solutions for small companies. |
 | **2011 → 2014** | Backend developer at Ondango (Berlin): e-commerce on Facebook that grew into a fashion marketplace. |
