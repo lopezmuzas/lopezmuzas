@@ -1,6 +1,6 @@
 ### Hi, I'm Antonio López Muzás 👋
 
-Senior software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, energy, healthcare, agrifood) and, lately, the plumbing that lets AI agents work with that software safely. I'm also preparing a PhD proposal on federated learning over data spaces.
+Senior software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, energy, healthcare, agrifood) and make it safe for AI agents to work with. I'm also preparing a PhD proposal on federated learning over data spaces.
 
 🇪🇸 *Ingeniero de software. Construyo software de negocio y la infraestructura para que los agentes de IA trabajen con él de forma segura.*
 
