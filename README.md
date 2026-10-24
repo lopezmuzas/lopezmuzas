@@ -9,8 +9,8 @@ Senior software engineer since 2007, based in Spain. I build business software f
 #### What I work on
 
 - **AI that touches real data, with guardrails.** MCP servers in every app I ship, natural-language-to-SQL where the model only *writes* SQL (validated with `sqlglot`, run read-only on DuckDB/Parquet), and voice and document agents that can only act through the business rules.
-- **Vehicle inspection (ITV) software.** Station management, online and phone booking (voice agents), licence-plate and document reading (CNN + OCR, multimodal LLMs), rule-based checks of vehicle modification files, integration with brake-test benches, inspection analytics.
-- **Energy retail.** An electricity and gas sales platform: supply points, rates from several retailers with a best-option comparison, bulk contracts and their processing through each retailer's API, webhooks or file exchange.
+- **Vehicle inspection (ITV) software.** Station management, online and phone booking (voice agents) for thousands of appointments a week, licence-plate and document reading (CNN + OCR, multimodal LLMs), rule-based checks of vehicle modification files, integration with brake-test benches, inspection analytics.
+- **Energy retail.** An electricity and gas sales platform that handles tens of thousands of contracts a year: supply points, rates from several retailers with a best-option comparison, bulk contracts and their processing through each retailer's API, webhooks or file exchange.
 - **Data spaces.** Ocean Protocol nodes and Compute-to-Data algorithms, a marketplace rewritten with DDD, data sharing between inspection stations and in agrifood.
 
 #### Side projects
