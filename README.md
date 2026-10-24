@@ -1,6 +1,6 @@
 ### Hi, I'm Antonio López Muzás 👋
 
-Software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, energy, healthcare, agrifood) and, lately, the plumbing that lets AI agents work with that software safely. I'm also preparing a PhD proposal on federated learning over data spaces.
+Senior software engineer since 2007, based in Spain. I build business software for regulated sectors (vehicle inspection, energy, healthcare, agrifood) and, lately, the plumbing that lets AI agents work with that software safely. I'm also preparing a PhD proposal on federated learning over data spaces.
 
 🇪🇸 *Ingeniero de software. Construyo software de negocio y la infraestructura para que los agentes de IA trabajen con él de forma segura.*
 
@@ -54,6 +54,8 @@ Before that: MSc in Human-Computer Interaction (Universitat de Lleida and DERI G
 | **2011 → 2014** | Backend developer at Ondango (Berlin): e-commerce on Facebook that grew into a fashion marketplace. |
 | **2007 → 2011** | Web developer at a consultancy: PHP and Java for SMEs. |
 
-📄 Full CV: [lopezmuzas.github.io/resume](https://lopezmuzas.github.io/resume/)
+**Languages:** Spanish (native) · English (professional, C1) · Russian (intermediate, conversational)
+
+📄 Full CV: [lopezmuzas.github.io/resume](https://lopezmuzas.github.io/resume/) · [PDF](https://lopezmuzas.github.io/resume/antonio-lopez-muzas-cv.pdf)
 
 <sub>Most of my work lives in private organisation repositories. Happy to talk about it.</sub>
